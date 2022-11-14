@@ -1,0 +1,5 @@
+durations,disp,start,rand,jitter,display,spatial,temporal,x_loc,box_loc,top_hg_loc,bottom_hg_loc,ystartdistractor1,ystartdistractor2,ystarttarget,xstartdistractor1,xstartdistractor2,durationsdistractor1,durationsdistractor2,jitterdistractor1,jitterdistractor2,dispdistractor1,dispdistractor2
+2.5,330,-600,0.291418442,165,time,0,1,"[-.75, .4]","[.15,.4]","[-.75,.42]","[-.75,.4]",100,-100,0,-300,-200,0,0,37.5,17.5,75,35
+1.75,600,-400,0.140329976,300,line,1,0,"[-.75, -.4]","[.15,-.4]","[-.75,-.42]","[-.75,-.4]",100,-100,0,-200,-300,5.25,6,17.5,37.5,35,75
+5.25,35,-200,0.511515263,17.5,time,0,1,"[-.75, -.4]","[.15,-.4]","[-.75,-.38]","[-.75,-.4]",100,-100,0,-600,-400,2.5,1.75,165,300,330,600
+1.75,600,-400,0.140329976,300,line,1,0,"[-.75, -.4]","[.15,-.4]","[-.75,-.42]","[-.75,-.4]",100,-100,0,-200,-300,0,0,17.5,37.5,35,75

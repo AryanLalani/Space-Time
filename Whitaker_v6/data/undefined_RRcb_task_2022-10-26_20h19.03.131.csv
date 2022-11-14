@@ -1,0 +1,8 @@
+﻿instructions_key_resp_3.keys,instructions_key_resp_3.rt,participant ID,date,expName,psychopyVersion,OS,frameRate,cal_mouse_start.x,cal_mouse_start.y,cal_mouse_start.leftButton,cal_mouse_start.midButton,cal_mouse_start.rightButton,cal_mouse_start.time,cal_mouse_start.clicked_name,mouse_cal_end_2.x,mouse_cal_end_2.y,mouse_cal_end_2.leftButton,mouse_cal_end_2.midButton,mouse_cal_end_2.rightButton,mouse_cal_end_2.time,mouse_cal_end_2.clicked_name,instructions_key_resp.keys,instructions_key_resp.rt,instructions_key_resp_2.keys,instructions_key_resp_2.rt,mouse_hg.x,mouse_hg.y,mouse_hg.leftButton,mouse_hg.midButton,mouse_hg.rightButton,mouse_hg.clicked_name,mouse_hg_2.x,mouse_hg_2.y,mouse_hg_2.leftButton,mouse_hg_2.midButton,mouse_hg_2.rightButton,mouse_hg_2.clicked_name,loop_temporal.thisRepN,loop_temporal.thisTrialN,loop_temporal.thisN,loop_temporal.thisIndex,loop_temporal.ran
+space,0.7166,1,2022-10-26_20h19.03.131,RRcb_task,2022.2.4,Win32,60.66120716,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,2022-10-26_20h19.03.131,RRcb_task,2022.2.4,Win32,60.66120716,-203,-6,1,0,0,1.1561,c_start_x,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,2022-10-26_20h19.03.131,RRcb_task,2022.2.4,Win32,60.66120716,,,,,,,,181,-5,1,0,0,0.3981,c_end_x,,,,,,,,,,,,,,,,,,,,,
+,,1,2022-10-26_20h19.03.131,RRcb_task,2022.2.4,Win32,60.66120716,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1,2022-10-26_20h19.03.131,RRcb_task,2022.2.4,Win32,60.66120716,,,,,,,,,,,,,,,space,0.5893,,,,,,,,,,,,,,,,,,,
+,,1,2022-10-26_20h19.03.131,RRcb_task,2022.2.4,Win32,60.66120716,,,,,,,,,,,,,,,,,space,0.4668,,,,,,,,,,,,,,,,,
+,,1,2022-10-26_20h19.03.131,RRcb_task,2022.2.4,Win32,60.66120716,,,,,,,,,,,,,,,,,,,-810,-424,1,0,0,hg_bottom,-821,-401,1,0,0,hg_top_2,0,0,0,0,1

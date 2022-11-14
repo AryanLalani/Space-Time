@@ -1,0 +1,7 @@
+﻿instructions_key_resp_3.keys,instructions_key_resp_3.rt,First two letters of each parents First Name and their date of birth . E.g. hapa1114,date,expName,psychopyVersion,OS,frameRate,cal_mouse_start.x,cal_mouse_start.y,cal_mouse_start.leftButton,cal_mouse_start.midButton,cal_mouse_start.rightButton,cal_mouse_start.time,cal_mouse_start.clicked_name,mouse_cal_end_2.x,mouse_cal_end_2.y,mouse_cal_end_2.leftButton,mouse_cal_end_2.midButton,mouse_cal_end_2.rightButton,mouse_cal_end_2.time,mouse_cal_end_2.clicked_name,instructions_key_resp.keys,instructions_key_resp.rt,instructions_key_resp_2.keys,instructions_key_resp_2.rt
+space,1.2873,,2022-11-10_15h33.31.389,RRcb_task,2022.2.4,Win32,60.08171113,,,,,,,,,,,,,,,,,,
+,,,2022-11-10_15h33.31.389,RRcb_task,2022.2.4,Win32,60.08171113,-270,6,1,0,0,1.1301,c_start_x,,,,,,,,,,,
+,,,2022-11-10_15h33.31.389,RRcb_task,2022.2.4,Win32,60.08171113,,,,,,,,273,1,1,0,0,0.8008,c_end_x,,,,
+,,,2022-11-10_15h33.31.389,RRcb_task,2022.2.4,Win32,60.08171113,,,,,,,,,,,,,,,,,,
+,,,2022-11-10_15h33.31.389,RRcb_task,2022.2.4,Win32,60.08171113,,,,,,,,,,,,,,,space,0.5983,,
+,,,2022-11-10_15h33.31.389,RRcb_task,2022.2.4,Win32,60.08171113,,,,,,,,,,,,,,,,,space,1.0911

@@ -1,0 +1,7 @@
+﻿instructions_key_resp_3.keys,instructions_key_resp_3.rt,participant ID,date,expName,psychopyVersion,OS,frameRate,cal_mouse_start.x,cal_mouse_start.y,cal_mouse_start.leftButton,cal_mouse_start.midButton,cal_mouse_start.rightButton,cal_mouse_start.time,cal_mouse_start.clicked_name,mouse_cal_end_2.x,mouse_cal_end_2.y,mouse_cal_end_2.leftButton,mouse_cal_end_2.midButton,mouse_cal_end_2.rightButton,mouse_cal_end_2.time,mouse_cal_end_2.clicked_name,instructions_key_resp.keys,instructions_key_resp.rt,instructions_key_resp_2.keys,instructions_key_resp_2.rt
+space,1.8706,1,2022-10-26_20h03.17.902,RRcb_task,2022.2.4,Win32,60.7681089,,,,,,,,,,,,,,,,,,
+,,1,2022-10-26_20h03.17.902,RRcb_task,2022.2.4,Win32,60.7681089,-204,2,1,0,0,1.2163,c_start_x,,,,,,,,,,,
+,,1,2022-10-26_20h03.17.902,RRcb_task,2022.2.4,Win32,60.7681089,,,,,,,,199,-4,1,0,0,0.9135,c_end_x,,,,
+,,1,2022-10-26_20h03.17.902,RRcb_task,2022.2.4,Win32,60.7681089,,,,,,,,,,,,,,,,,,
+,,1,2022-10-26_20h03.17.902,RRcb_task,2022.2.4,Win32,60.7681089,,,,,,,,,,,,,,,space,1.0522,,
+,,1,2022-10-26_20h03.17.902,RRcb_task,2022.2.4,Win32,60.7681089,,,,,,,,,,,,,,,,,space,1.0329
